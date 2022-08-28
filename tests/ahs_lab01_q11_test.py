@@ -1,4 +1,4 @@
-from ahs_lab01 import largest_factor
+from lab.ahs_lab01 import largest_factor
     
 def test():
     assert largest_factor(15) == 5

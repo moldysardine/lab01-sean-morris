@@ -1,4 +1,4 @@
-from ahs_lab01 import two_of_three
+from lab.ahs_lab01 import two_of_three
 
 def test():
     assert two_of_three(1, 2, 3) == 5
