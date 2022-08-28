@@ -9,7 +9,6 @@ functions slides: https://docs.google.com/presentation/d/172UPPqyyABUpZTgpI0tmrc
 
 The following commands need to be run from the repl shell:
 - python3 -m pip install pytest
-- python3 -m pip install .
 - python3 -m pytest tests/test.py -k "test_name"
 - python3 -m pytest tests/test.py
 
